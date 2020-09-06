@@ -1,0 +1,43 @@
+h1 {
+color: yellow;
+
+}
+
+.Media{
+border:solid;
+
+display:flex;
+justify-content: space-evenly
+}
+
+
+.Origami{
+background-color: violet;
+border-radius: 20px;
+padding: 30px;
+margin: 25px;
+width:310px;
+}
+
+
+.Origami:hover{
+    background-color: magenta
+}
+.IMGHover:hover{
+     
+    transform: scale(1.1);
+}
+
+.grid{
+display:flex;
+flex-wrap: wrap;
+margin:40px;
+}
+
+    a:link{
+    color:yellow;
+    }
+
+    a:visited{
+    color:orchid;
+    }
