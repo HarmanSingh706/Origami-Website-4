@@ -47,7 +47,9 @@ margin:40px;
     a:link{
     color:yellow;
     }
-
+.hoverlink:hover{
+color:red;
+}
     a:visited{
     color:orchid;
     }
